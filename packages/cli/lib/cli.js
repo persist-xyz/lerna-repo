@@ -4,5 +4,5 @@ module.exports = cli;
 
 function cli() {
   // TODO
-  console.log("test2222---");
+  console.log("test22221---");
 }
