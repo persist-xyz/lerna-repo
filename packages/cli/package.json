@@ -1,6 +1,6 @@
 {
   "name": "@mo-demo/cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "朱晓云 <zhuxiaoyun@dushu.io>",
   "homepage": "https://github.com/persist-xyz/lerna-repo#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/persist-xyz/lerna-repo/issues"
   },
   "dependencies": {
-    "@mo-demo/cli-shared-utils": "^0.0.3",
+    "@mo-demo/cli-shared-utils": "^0.0.4",
     "chalk": "^4.1.0"
   },
   "gitHead": "5b7c15b07ee89cb0a958a9c3fb66095fc2d13b67"
