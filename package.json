@@ -1,6 +1,6 @@
 {
   "name": "xyz_test_lerna",
-  "private": false,
+  "private": true,
   "devDependencies": {
     "lerna": "^3.22.1"
   }
