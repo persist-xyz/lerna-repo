@@ -1,6 +1,7 @@
 {
   "name": "xyz_test_lerna",
-  "private": true,
+  "version": "0.0.2",
+  "private": false,
   "devDependencies": {
     "lerna": "^3.22.1"
   }
