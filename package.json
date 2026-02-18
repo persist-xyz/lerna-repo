@@ -2,6 +2,6 @@
   "name": "xyz_test_lerna",
   "private": false,
   "devDependencies": {
-    "lerna": "^3.22.1"
+    "lerna": "^8.2.3"
   }
 }
